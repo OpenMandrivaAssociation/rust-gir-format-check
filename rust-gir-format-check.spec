@@ -5,8 +5,8 @@
 %global crate gir-format-check
 
 Name:           rust-%{crate}
-Version:        0.1.1
-Release:        4%{?dist}
+Version:        0.1.3
+Release:        1%{?dist}
 Summary:        File format checker
 
 License:        MIT
